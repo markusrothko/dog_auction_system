@@ -1,0 +1,6 @@
+HenriK:
+
+
+Jag är inte säker på vad det är som är statiskt i din implementation. Detta måste förtydligas.
+
+Avsnitt 4 om arrayanvändningen förstår jag inte. Get-metoden som används som exempel använder ingen array.
